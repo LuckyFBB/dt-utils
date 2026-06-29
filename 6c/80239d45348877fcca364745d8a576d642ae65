@@ -1,0 +1,24 @@
+docs/api/typedoc-sidebar.json
+  s_6a99ab0e7f996a::t_a5d331f1530831 32,35
+  s_6a99ab0e7f996a::t_7f39be351ef842 156
+src/createPDFDownload/index.ts
+  s_6a99ab0e7f996a::t_204fa64a104b6e 1-52
+docs/api/functions/createPDFDownload.md
+  s_6a99ab0e7f996a::t_204fa64a104b6e 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "6c80239d45348877fcca364745d8a576d642ae65",
+  "prompts": {},
+  "sessions": {
+    "s_6a99ab0e7f996a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f128d-7fa8-73a2-bfc7-ea174fd25809",
+        "model": "gpt-5.5"
+      },
+      "human_author": "LuckyFBB <976060700@qq.com>"
+    }
+  }
+}
